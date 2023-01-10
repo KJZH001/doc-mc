@@ -7,3 +7,6 @@
 * 外置登录
     [注册](login/guide)
     [添加认证服务器至启动器](login/authServer)
+* 如何安装游戏
+    [本体](setup/game)
+    [Java](setup/java)
