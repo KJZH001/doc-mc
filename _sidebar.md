@@ -26,5 +26,10 @@
     * [1](setup/game)
     * [2](setup/java)
 
+* 未分类
+
+    * [java](/game)
+    * [2](setup/java)
+
 
 
