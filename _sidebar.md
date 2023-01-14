@@ -28,8 +28,13 @@
 
 * 未分类
 
-    * [java](/game)
-    * [2](setup/java)
+    * [java](undefind/java)
+    * [关于外置登录](undefind/aboutLogin)
+    * [服务器基础内容介绍](undefind/basicContant)
+    * [服务器基础指令介绍](undefind/basicCommand)
+    * [](undefind/)
+    * [](undefind/)
+    * [](undefind/)
 
 
 
