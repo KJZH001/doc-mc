@@ -16,5 +16,15 @@
     * [本体](setup/game)
     * [Java](setup/java)
 
+* 入门指南
+
+    * [会外置登录](start/canLogin)
+    * [2](setup/java)
+
+* 测试
+
+    * [1](setup/game)
+    * [2](setup/java)
+
 
 
