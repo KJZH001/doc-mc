@@ -1,4 +1,4 @@
-# 首先如何才能拿到游戏本体？
+首先如何才能拿到游戏本体？
 
 方式一：
 
@@ -8,19 +8,19 @@
 
 进入我们服务器群（如图）
 
-
+https://doc-mc.moeworld.top/pictures/QQ截图20230103194745.png)
 
 并打开群文件（如下图）
 
+https://doc-mc.moeworld.top/pictures/QQ截图20230103194845.png)
 
+ 
 
- 
-
-点击文件夹
+点击https://doc-mc.moeworld.top/pictures/QQ截图20230103194939.png)文件夹
 
 如下图：
 
-
+https://doc-mc.moeworld.top/pictures/QQ截图20230103195015.png)
 
 然后按需求下载游戏文件
 
@@ -30,10 +30,10 @@
 
 如下图所示：
 
+https://doc-mc.moeworld.top/pictures/QQ截图20230103194306.png)
 
+然后点击https://doc-mc.moeworld.top/pictures/QQ截图20230103195216.png)按钮跳转到以下画面（如图）
 
-然后点击按钮跳转到以下画面（如图）
-
-
+https://doc-mc.moeworld.top/pictures/QQ截图20230103195254.png)
 
 游戏文件都在其中，按需求下载即可
