@@ -3,7 +3,7 @@
 
 <img src="https://img.cdn.loliloli.net/images/2022/07/16/IIFy.png" width="128px"/>
 
-# 空梦世界 MoeWorld <small>pre 3</small>
+# 空梦世界 MoeWorld <small>bp 4</small>
 
 > 来，和我们一起让MC的世界变得萌起来吧！
 
