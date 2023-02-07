@@ -16,6 +16,14 @@
     * [本体](setup/game)
     * [Java](setup/java)
 
+* 下载站
+
+    * [介绍](dowanload/introduce)
+    * [分类](dowanload/)
+    * [mc整合包文件](dowanload/)
+    * [](dowanload/)
+    * [](dowanload/)
+
 * 入门指南
 
     * [会外置登录](start/canLogin)
