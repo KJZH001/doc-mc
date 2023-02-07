@@ -26,8 +26,8 @@
 
 * 入门指南
 
-    * [会外置登录](start/canLogin)
-    * [2](setup/java)
+    * [外置登录](start/canLogin)
+    * [2]()
 
 * 测试
 
