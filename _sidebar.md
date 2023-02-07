@@ -3,18 +3,15 @@
 * 开始
 
     * [首页]()
-    * [第一次接触MC的入门指南](first/main-old)
+    * [快速导览]()
+    * [第一次接触MC的入门指南（旧）](first/main-old)
     
 
 * 外置登录
+
     * [我应该如何选择登陆方式？](first/what-should-i-login)
     * [注册](login/register)
     * [添加认证服务器至启动器](login/authServer)
-
-* 如何安装游戏
-
-    * [本体](setup/game)
-    * [Java](setup/java)
 
 * 下载站
 
@@ -23,6 +20,18 @@
     * [mc整合包文件](dowanload/)
     * [](dowanload/)
     * [](dowanload/)
+
+* 如何安装游戏
+
+    * [Java](setup/java)
+    * [本体](setup/game)
+
+* 服务器
+    * [服务器结构介绍](undefind/)
+    * [加入服务器](undefind/)
+    * [常用指令](undefind/)
+    * [规则和注意事项](undefind/)
+    * [](undefind/)
 
 * 入门指南
 
@@ -42,6 +51,12 @@
     * [服务器基础指令介绍](undefind/basicCommand)
     * [](undefind/)
     * [](undefind/)
+    * [](undefind/)
+
+* 关于
+
+    * [联系我们](undefind/)
+    * [友情链接](undefind/)
     * [](undefind/)
 
 
