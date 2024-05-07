@@ -33,7 +33,9 @@
 > 对于大多数的参数类型, 您可以使用逗号来定义多个参数. 例如 a:break,place.
 > 
 > 玩家可能收到的常见错误可能是: 您遗漏了有效的行为. 使用 /prism ? 来获取帮助.
->  
+>
+
+### 参数列表
 +   `a:[行为]` - 例如 “block-break” (您可以在下面看到一个完整的列表). 默认值为所有行为.
     
 +   `r:[半径]` - 查询您附近多少格方块半径内的事件记录, 例如 `r:20`. 默认值为配置文件中所设值.
@@ -67,7 +69,87 @@
 +   `k:[关键字]` - 基于文本的关键字搜索 (主要适用于 指令/聊天 事件).
     
 +   `id:[ID]` - 单个的记录 id.
-+   
+  
+### 行为列表
+
+| 行为              | 可回滚 | 可还原 | 简述                                                   | 权限状态 |
+| ----------------- | ------ | ------ | ------------------------------------------------------ | -------- |
+| block-break       | ✔️      | ✔️      | 任何被破坏的方块.                                      | ✔️        |
+| block-burn        | ✔️      | ✔️      | 任何被烧掉的方块.                                      | ✔️        |
+| block-dispense    | ❌      | ❌      | 一个方块中发射出去的物品.                              | ✔️        |
+| block-fade        | ✔️      | ✔️      | 一个消亡的方块, 例如雪融化,树叶在断开与树的连接后消亡. | ✔️        |
+| block-fall        | ✔️      | ✔️      | 例如沙子坠落.                                          | ✔️        |
+| block-form        | ✔️      | ✔️      | 形成圆石或形成冰.                                      | ✔️        |
+| block-place       | ✔️      | ✔️      | 任何被放置的方块.                                      | ✔️        |
+| block-shift       | ❌      | ❌      | 被活塞推动的方块.                                      | ✔️        |
+| block-spread      | ✔️      | ✔️      | 方块有机地蔓延, 如草方块.                              | ✔️        |
+| block-use         | ❌      | ❌      | 使用方块, 如工作台.                                    | ✔️        |
+| bucket-fill       | ❌      | ❌      | 填装一个桶.                                            | ✔️        |
+| bonemeal-use      | ❌      | ❌      | 使用骨粉.                                              | ✔️        |
+| container-access  | ❌      | ❌      | 使用一个容器.                                          | ✔️        |
+| cake-eat          | ❌      | ❌      | 食用地上的蛋糕.                                        | ✔️        |
+| craft-item        | ❌      | ❌      | 合成一个物品.                                          | ❌        |
+| creeper-explode   | ✔️      | ✔️      | 苦力怕爆炸.                                            | ✔️        |
+| crop-trample      | ✔️      | ✔️      | 损坏农作物.                                            | ✔️        |
+| dragon-eat        | ✔️      | ✔️      | 末影龙吃掉方块.                                        | ✔️        |
+| enchant-item      | ✔️      | ✔️      | 附魔一个物品.                                          | ❌        |
+| enderman-pickup   | ✔️      | ✔️      | 末影人拿起方块.                                        | ✔️        |
+| enderman-place    | ✔️      | ✔️      | 末影人放置方块.                                        | ✔️        |
+| entity-break      | ✔️      | ✔️      | 实体破坏一个方块.                                      | ✔️        |
+| entity-dye        | ❌      | ❌      | 染色一个物品.                                          | ❌        |
+| entity-explode    | ✔️      | ✔️      | 实体爆炸.                                              | ✔️        |
+| entity-follow     | ❌      | ❌      | 实体跟随一个玩家.                                      | ✔️        |
+| entity-form       | ✔️      | ✔️      | 形成一个实体.                                          | ✔️        |
+| entity-kill       | ✔️      | ✔️      | 实体被击杀.                                            | ✔️        |
+| entity-leash      | ❌      | ❌      | 实体被栓绳拴住.                                        | ✔️        |
+| entity-shear      | ❌      | ❌      | 实体被剪刀剪.                                          | ✔️        |
+| entity-spawn      | ❌      | ❌      | 实体被生成.                                            | ✔️        |
+| entity-unleash    | ❌      | ❌      | 实体被解拴.                                            | ✔️        |
+| fireball          | ❌      | ❌      | 使用火球点火.                                          | ✔️        |
+| fire-spread       | ✔️      | ✔️      | 火焰蔓延.                                              | ✔️        |
+| firework-launch   | ✔️      | ✔️      | 发射烟花.                                              | ✔️        |
+| hangingitem-break | ✔️      | ✔️      | 例如画被破坏.                                          | ✔️        |
+| hangingitem-place | ✔️      | ✔️      | 例如画被放置.                                          | ✔️        |
+| item-drop         | ✔️      | ✔️      | 丢弃一个物品到地上.                                    | ✔️        |
+| item-insert       | ✔️      | ✔️      | 将物品放入容器.                                        | ✔️        |
+| item-pickup       | ✔️      | ✔️      | 拾起地上的掉落物.                                      | ✔️        |
+| item-remove       | ✔️      | ✔️      | 拿出容器内的物品.                                      | ✔️        |
+| item-rotate       | ❌      | ❌      | 旋转物品展示框内的物品.                                | ✔️        |
+| lava-break        | ❌      | ❌      | 熔岩破坏一个方块.                                      | ✔️        |
+| lava-bucket       | ✔️      | ✔️      | 收集熔岩.                                              | ✔️        |
+| lava-flow         | ✔️      | ✔️      | 熔岩流动.                                              | ✔️        |
+| lava-ignite       | ❌      | ❌      | 熔岩点燃周围的环境.                                    | ✔️        |
+| leaf-decay        | ✔️      | ✔️      | 树叶凋落.                                              | ✔️        |
+| lighter           | ❌      | ❌      | 使用打火石.                                            | ✔️        |
+| lightning         | ❌      | ❌      | 闪电劈下来.                                            | ✔️        |
+| mushroom-grow     | ✔️      | ✔️      | 蘑菇树生长.                                            | ✔️        |
+| player-chat       | ❌      | ❌      | 玩家聊天.                                              | ❌        |
+| player-command    | ❌      | ❌      | 玩家执行指令.                                          | ❌        |
+| player-death      | ❌      | ❌      | 玩家死亡.                                              | ✔️        |
+| player-join       | ❌      | ❌      | 玩家进入服务器.                                        | ❌        |
+| player-kill       | ✔️      | ❌      | 击杀玩家.                                              | ❌        |
+| player-quit       | ❌      | ❌      | 玩家离开服务器.                                        | ❌        |
+| player-teleport   | ❌      | ❌      | 玩家传送.                                              | ❌        |
+| potion-splash     | ❌      | ❌      | 玩家掷出喷溅药水.                                      | ✔️        |
+| sheep-eat         | ❌      | ❌      | 绵羊吃草.                                              | ✔️        |
+| sign-change       | ❌      | ✔️      | 修改告示牌上的文本.                                    | ✔️        |
+| spawnegg-use      | ❌      | ❌      | 使用刷怪蛋.                                            | ✔️        |
+| tnt-explode       | ✔️      | ✔️      | TNT 爆炸.                                              | ✔️        |
+| tnt-prime         | ❌      | ❌      | 点燃 TNT.                                              | ❌        |
+| tree-grow         | ✔️      | ✔️      | 树生长.                                                | ✔️        |
+| vehicle-break     | ✔️      | ❌      | 破坏载具.                                              | ✔️        |
+| vehicle-enter     | ❌      | ❌      | 进入载具.                                              | ✔️        |
+| vehicle-exit      | ❌      | ❌      | 离开载具.                                              | ✔️        |
+| vehicle-place     | ❌      | ❌      | 放置载具.                                              | ✔️        |
+| water-break       | ✔️      | ✔️      | 水破坏方块.                                            | ✔️        |
+| water-bucket      | ✔️      | ✔️      | 收集水.                                                | ✔️        |
+| water-flow        | ✔️      | ✔️      | 水流动.                                                | ❌        |
+| world-edit        | ✔️      | ✔️      | 编辑世界.                                              | ❌        |
+| xp-pickup         | ❌      | ❌      | 拾起经验球.                                            | ❌        |
+| target-hit        | ❌      | ❌      | 标靶方块被箭击中.                                      | ❌        |
+| player-trade      | ❌      | ❌      | 玩家与村民交易.                                        | ❌        |
+| item-receive      | ✔️      | ✔️      | 与村民交易收到的物品.                                  | ❌        |
+
 
 ## 标志
 
