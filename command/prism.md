@@ -88,7 +88,7 @@
 
 除非在配置文件中启用了显示扩展记录, 我们在默认情况下是不会向您显示扩展信息的, 可以减少杂乱的信息. 但是有的时候您可能会需要它. 使用 `-extended` 可以查询到扩展记录.
 
-[![显示扩展记录的 Prism 查询信息.](https://prism-cn.readthedocs.io/zh-cn/latest/_images/prism_extended_display.png)
+![显示扩展记录的 Prism 查询信息.](https://prism-cn.readthedocs.io/zh-cn/latest/_images/prism_extended_display.png)
 
 #### 不分组
 
