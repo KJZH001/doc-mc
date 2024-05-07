@@ -4,7 +4,7 @@
 
 ## 登录模式
 **必须使用定制的外置登录**，不支持离线模式和Microsoft账户登录。可前往下方链接免费注册账号，完成外置登录。
-[MoeWorld Skin皮肤站](skin.moeworld.top)
+[MoeWorld Skin皮肤站](https://skin.moeworld.top)
 
 ## Q&A
 
