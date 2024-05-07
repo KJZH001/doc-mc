@@ -38,7 +38,12 @@ mc.moeworld.top:35578
 
 您需要使用MoeWorld Skin账户外置登录进入服务器
 
-## 外部链接
+# 切换阅读方式
+在Github查看：[https://github.com/KJZH001/doc-mc/](https://github.com/KJZH001/doc-mc/)
+
+在文档站点中阅读：[https://doc-mc.moeworld.top](https://doc-mc.moeworld.top)
+
+# 外部链接
 
 晓空blog：https://blog.moeworld.tech
 
