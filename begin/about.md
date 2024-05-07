@@ -8,7 +8,12 @@
 
 ## 登录模式
 **必须使用定制的外置登录**，不支持离线模式和Microsoft账户登录。可前往下方链接免费注册账号，完成外置登录。
-[MoeWorld Skin皮肤站](https://skin.moeworld.top)
+
+[MoeWorld Skin](https://skin.moeworld.top)
+
+在目前我们尚且支持对Mojang账户进行正版登录，**但我们在不久的将来打算放弃对正版登录的支持**
+
+为了防止您将来无法登录或者产生数据丢失的风险，不建议使用Mojang正版登录
 
 ## Q&A
 
