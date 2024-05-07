@@ -6,4 +6,4 @@ prism（棱镜）插件仅作为安全和备份使用
 
 # 命令列表
 
-* [prism](prism.md)
+* [prism](command/prism.md)
