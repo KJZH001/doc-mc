@@ -36,13 +36,13 @@ mc.moeworld.top:35578
 
 目前已经撤除对基岩版的支持，后续可能会重新添加
 
-请收藏我们的全新官网地址：project.moeworld.tech
+请收藏我们的全新官网地址：[project.moeworld.tech](project.moeworld.tech)
 
 新的社团官网正在筹划改建中！届时会对所有玩家开放注册
 
 您需要使用MoeWorld Skin账户外置登录进入服务器
 
-# 切换阅读方式
+# 文档地址
 在Github查看：[https://github.com/KJZH001/doc-mc/](https://github.com/KJZH001/doc-mc/)
 
 在文档站点中阅读：[https://doc-mc.moeworld.top](https://doc-mc.moeworld.top)
