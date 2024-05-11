@@ -8,7 +8,8 @@
     * [服务器地址](begin/host.md)
     * [新手帮助](begin/help.md)
 
-
+* 安装
+    * [Java](install/java.md)
 
 * 命令
     * [概览](command/info.md)
