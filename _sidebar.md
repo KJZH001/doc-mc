@@ -17,7 +17,7 @@
 
 * Q&A
     * [术语](question/term.md)
-    * [常见问题Q&A](begin/Q&A.md)
+    * [常见问题Q&A](question/Q&A.md)
 
 * 关于
     * [关于我们](about/about.md)
