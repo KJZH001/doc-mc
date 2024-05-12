@@ -9,7 +9,9 @@
     * [新手帮助](begin/help.md)
 
 * 安装
-    * [Java](install/java.md)
+    * [Java环境](install/java.md)
+    * [Java版MC](install/java-MC.md)
+    * [基岩版MC](install/bedrock-MC.md)
 
 * 命令
     * [概览](command/info.md)
