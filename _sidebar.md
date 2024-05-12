@@ -15,7 +15,6 @@
 
 * 命令
     * [概览](command/info.md)
-    * [Prism](command/prism.md)
 
 *  游玩
    * [注册](play/register.md)
