@@ -15,6 +15,11 @@
     * [概览](command/info.md)
     * [Prism](command/prism.md)
 
+*  游玩
+   * [注册](play/register.md)
+   * [基岩版](play/bedrock.md)
+   * [Java版](play/java.md)
+
 * Q&A
     * [术语](question/term.md)
     * [常见问题Q&A](question/Q&A.md)
