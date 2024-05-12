@@ -1,9 +1,9 @@
 # 安装java
-本文讲述的是如何安装Microsoft JDK的安装版，我们不会教你如何安装免安装的绿色版
+本文讲述的是如何在64位Windows上安装Microsoft JDK的安装版，我们不会教你如何使用绿色版JDK
 
-因为如果您具有使用绿色版jdk的能力，那么也不存在阅读本教程的必要
+因为如果您具有使用绿色版jdk的能力，或者您是Linux/类Unix用户，以及为数不多的32位系统使用者，那么您也不存在阅读本教程的必要，我们相信您具有自己解决问题的能力
 
-仅Minecraft Java版需要安装Java，基岩版不需要
+仅Minecraft Java版需要安装Java，如果你选择基岩版进行游戏，不需要进行此步骤
 
 ## 下载
 打开 https://learn.microsoft.com/zh-cn/java/openjdk/download
