@@ -10,16 +10,16 @@
 
 * 安装
     * [Java环境](install/java.md)
-    * [Java版MC](install/java-MC.md)
-    * [基岩版MC](install/bedrock-MC.md)
+    * [Java版MC](install/mcje.md)
+    * [基岩版MC](install/mcbe.md)
 
 * 命令
     * [概览](command/info.md)
 
 *  游玩
    * [注册](play/register.md)
-   * [基岩版](play/bedrock.md)
-   * [Java版](play/java.md)
+   * [基岩版](play/mcbe.md)
+   * [Java版](play/mcje.md)
 
 * Q&A
     * [术语](question/term.md)
