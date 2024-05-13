@@ -5,7 +5,17 @@
 
 参考如下籽岷的教程视频。
 
- [【如何购买正版 我的世界Minecraft】](https://www.bilibili.com/video/BV1ta4y1R7Hy/?share_source=copy_web&vd_source=59450cd35a5b1aab4ce7b904c43ffa6a)
+ [【如何购买正版 我的世界Minecraft】](https://www.bilibili.com/video/BV1ta4y1R7Hy/?share_source=copy_web&vd_source=59450cd35a5b1aab4ce7b904c43ffa6a)。
+
+ 首先进入mc官网，自行注册microsoft账户。选择购买minecraft
+
+![mc1](https://img2.imgtp.com/2024/05/13/M2T3MJm2.png)
+
+ 选择想要购买的版本
+
+ ![mc2](https://img2.imgtp.com/2024/05/13/GjN3MYhM.png)
+
+进行付款。
 
 ## 选择启动器
 
