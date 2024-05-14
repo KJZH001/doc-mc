@@ -4,7 +4,7 @@
 
 ![h10](https://img2.imgtp.com/2024/05/14/B6OGTtFq.png)
 
-自行输入服务器地址
+自行输入[服务器地址](begin/host.md)
 
 ![h11](https://img2.imgtp.com/2024/05/14/sjuhoSey.png)
 
