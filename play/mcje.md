@@ -1,9 +1,17 @@
 # 选择你的启动器
 
+你应当确保已经安装了java
+
 ## HMCL
 例v3.5.7。
 
 一图流。
+
+首先确保正确安装了java
+
+![b1](https://img2.imgtp.com/2024/05/14/P4qqn63T.png)
+
+![b2](https://img2.imgtp.com/2024/05/14/mqdbSuKA.png)
 
 ![h1](https://img2.imgtp.com/2024/05/13/kCZ8Vc5D.png)
 
@@ -31,4 +39,28 @@
 
 ![h8](https://img2.imgtp.com/2024/05/13/TaBxAgEY.png)
 
-后续可自行下载游戏。
+后续可自行选择版本，下载游戏。
+
+![d1](https://img2.imgtp.com/2024/05/14/jiCkgIkx.png)
+
+![d2](https://img2.imgtp.com/2024/05/14/EvKoAEvl.png)
+
+对于不了解的选项不要改动即可
+
+![d3](https://img2.imgtp.com/2024/05/14/GrLja7Pk.png)
+
+![d4](https://img2.imgtp.com/2024/05/14/WaIzyh8M.png)
+
+若游戏为英文语言，自行查找如何切换至中文
+
+![h9](https://img2.imgtp.com/2024/05/14/bltMHthI.png)
+
+![h10](https://img2.imgtp.com/2024/05/14/B6OGTtFq.png)
+
+自行输入服务器地址
+
+![h11](https://img2.imgtp.com/2024/05/14/sjuhoSey.png)
+
+双击或者点击下方[加入服务器]即可
+
+![h12](https://img2.imgtp.com/2024/05/14/qjbDGKDE.png)
