@@ -41,6 +41,8 @@
 
 后续可自行选择版本，下载游戏。
 
+![c1](https://img2.imgtp.com/2024/05/14/IuTkDore.png)
+
 ![d1](https://img2.imgtp.com/2024/05/14/jiCkgIkx.png)
 
 ![d2](https://img2.imgtp.com/2024/05/14/EvKoAEvl.png)
@@ -61,6 +63,6 @@
 
 ![h11](https://img2.imgtp.com/2024/05/14/sjuhoSey.png)
 
-双击或者点击下方[加入服务器]即可
+双击或者点击下方[加入服务器]
 
 ![h12](https://img2.imgtp.com/2024/05/14/qjbDGKDE.png)
