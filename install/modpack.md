@@ -4,7 +4,7 @@
 
 ## 下载整合包
 
-目前比较知名的下载平台有FTB,Curseforge和Modrinth等。
+目前比较知名的下载平台有FTB、Curseforge和Modrinth等。
 
 MoeWorld服务器是插件服，并不需要安装特定模组，此处选择使用整合包仅为了给客户端添加更多功能，提升游玩体验。使用纯净客户端即可进入。
 
