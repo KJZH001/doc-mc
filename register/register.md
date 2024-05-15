@@ -29,7 +29,7 @@ MoeWorld Skin地址：[https://skin.moeworld.top](https://skin.moeworld.top)
 角色名称可更改，但是您不可以删除这个角色，然后重新添加一个新的角色
 
 !> 注意：删除角色会导致uuid发生变化，即使您重新添加了一个同名角色，也可能会由于uuid不同而导致存档数据丢失
-因此请谨慎操作
+<br>因此请谨慎操作
 
 #### 人机验证
 这是为了防止恶意注册，保护服务器的安全，我们使用了Google reCaptcha来进行验证
