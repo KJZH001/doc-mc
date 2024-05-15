@@ -8,8 +8,9 @@
     * [服务器地址](begin/host.md)
     * [新手帮助](begin/help.md)
 
-* 注册
+* 皮肤站
     * [注册](register/register.md)
+    * [更换皮肤](register/change_skin.md)
 
 * 安装
     * [Java环境](install/java.md)
