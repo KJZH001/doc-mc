@@ -40,4 +40,3 @@
     * [隐私政策](about/privacy.md)
     * [版权声明](about/copyright.md)
     * [空梦project](https://project.moeworld.tech/)
-```

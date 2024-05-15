@@ -6,8 +6,6 @@
 
 但是**请不要使用过新的版本**（例如最新的稳定版和beta测试版），因为跨版本也并非是万能的，我们也无法做到那么及时的更新。
 
-服务器状态:
-<img src="https://api.loohpjames.com/serverbanner.png?ip=mc.moeworld.top" alt="some_text">
 
 ## 玩法介绍
 目前服务器提供极其贴近纯净的原版Minecraft体验，不过后续可能会另外开放具有更多玩法的分服。
