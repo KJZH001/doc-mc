@@ -18,7 +18,7 @@ MoeWorld服务器是插件服，并不需要安装特定模组，此处选择使
 
 !> 并非所有启动器都支持安装整合包
 
-HMCLv3.5.7为例，直接将标准.zip格式整合包拖进启动器界面即可安装。
+HMCLv3.5.7为例，直接将标准 `.zip` `.mrpack` 等格式整合包拖进启动器界面即可安装。
 
 ![modpack-hmcl](https://img2.imgtp.com/2024/05/14/A1lb9hhd.png)
 
