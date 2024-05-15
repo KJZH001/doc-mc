@@ -3,7 +3,7 @@
 
 <img src="https://img.cdn.loliloli.net/images/2022/07/16/IIFy.png" width="128px"/>
 
-# 空梦世界 MoeWorld <small>re 1.0.0</small>
+# 空梦世界 MoeWorld <small>reFolia</small>
 
 > 来，和我们一起让MC的世界变得萌起来吧！
 
@@ -13,4 +13,4 @@
 
 [博客](https://blog.moeworld.tech/)
 [皮肤站](https://skin.moeworld.top/)
-[官网](https://blog.moeworld.tech/)
+[官网](https://project.moeworld.tech/)

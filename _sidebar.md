@@ -8,6 +8,11 @@
     * [服务器地址](begin/host.md)
     * [新手帮助](begin/help.md)
 
+* 皮肤站
+    * [注册](register/register.md)
+    * [更换皮肤](register/change_skin.md)
+    * [外置登录](register/single_login.md)
+
 * 安装
     * [Java环境](install/java.md)
     * [Java版MC](install/mcje.md)
@@ -18,7 +23,6 @@
     * [概览](command/info.md)
 
 *  游玩
-   * [注册](play/register.md)
    * [基岩版](play/mcbe.md)
    * [Java版](play/mcje.md)
 
