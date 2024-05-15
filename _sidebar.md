@@ -12,6 +12,7 @@
     * [Java环境](install/java.md)
     * [Java版MC](install/mcje.md)
     * [基岩版MC](install/mcbe.md)
+    * [整合包(仅JE)](install/modpack.md)
 
 * 命令
     * [概览](command/info.md)
