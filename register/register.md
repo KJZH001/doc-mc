@@ -7,7 +7,7 @@ MoeWorld Skin地址：[https://skin.moeworld.top](https://skin.moeworld.top)
 您可以在未登录的情况下，点击中间的按钮注册
 
 ## 注册页面
-[https://r2.img.cdn.loliloli.net/19d48d1c0382158a62dfb072681f2190/2024/05/15/LG7WO.png](https://r2.img.cdn.loliloli.net/19d48d1c0382158a62dfb072681f2190/2024/05/15/LG7WO.png)
+![2](https://r2.img.cdn.loliloli.net/19d48d1c0382158a62dfb072681f2190/2024/05/15/LG7WO.png)
 
 您点击注册之后，会看到这样的页面
 
