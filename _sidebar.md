@@ -31,7 +31,8 @@
     * [常见问题Q&A](question/Q&A.md)
 
 * 关于
-    * [空梦project](https://project.moeworld.tech/)
+    * [皮肤站](https://skin.moeworld.top/)
+    * [【官网】空梦project](https://project.moeworld.tech/)
 <!--
     * [关于我们](about/about.md)
     * [联系我们](about/contact.md)
