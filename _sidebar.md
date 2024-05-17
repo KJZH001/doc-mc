@@ -30,6 +30,9 @@
     * [术语](question/term.md)
     * [常见问题Q&A](question/Q&A.md)
 
+* 外部链接
+    * [Minecraft Wiki](https://zh.minecraft.wiki/)
+
 * 关于
     * [皮肤站](https://skin.moeworld.top/)
     * [【官网】空梦project](https://project.moeworld.tech/)
