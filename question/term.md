@@ -16,13 +16,13 @@ Java是一种跨平台的编程语言，由Sun Microsystems公司于1995年5月�
 
 Minecraft游戏的Java版是使用Java语言编写的，所以您需要安装Java虚拟机才能运行游戏
 
-Java分为JDK和JRE，它们当中都包含JVM，JDK是Java开发工具包，JRE是Java运行环境，JVM是java的虚拟机
+Java分为JDK和JRE，它们当中都包含JVM，JDK是Java开发工具包(Java Developerment Kit)，JRE是Java运行环境(Java RunningTime Environment)，JVM是java的虚拟机(Java Virtual Machine)
 
 它们的关系是 JDK > JRE > JVM，~~一般来说，对于大部分java的应用程序和游戏，您只需要安装JRE即可~~
 
 但是由于Microsoft和Mojang激进的更新策略，使用非长期支持版（LTS）的Java运行时，而甲骨文不会对非LTS版本（现在是java8）发布JRE，所以您必须安装JDK而不能使用JRE
 
-对于Minecraft Java Edition 1.20.1来说，您需要至少按照JDK17才能够运行游戏
+对于Minecraft Java Edition 1.20.1（我们现在的建议版本）来说，您需要至少安装JDK17才能够运行游戏
 
 ## IPv4/IPv6
 ### IPv4
@@ -85,9 +85,9 @@ mc.moeworld.top:35578
 
 例如：`25565`和`19132`
 
-若以上方的例子：`mc.moeworld.top:35578`中的`35578`
-
 这两个端口是Minecraft游戏的默认端口，分别用于Java版和基岩版（携带版）
+
+若以上方的例子：`mc.moeworld.top:35578`中的`35578`
 
 对于玩家来说，您只需按照我们给出的端口填入即可，不需要关心端口的具体含义
 
