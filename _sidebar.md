@@ -9,9 +9,9 @@
     * [新手帮助](begin/help.md)
 
 * 皮肤站
-    * [注册](register/register.md)
-    * [更换皮肤](register/change_skin.md)
-    * [外置登录](register/single_login.md)
+    * [注册](skin/register.md)
+    * [更换皮肤](skin/change_skin.md)
+    * [外置登录](skin/single_login.md)
 
 * 安装
     * [Java环境](install/java.md)
