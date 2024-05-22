@@ -22,6 +22,7 @@
 
 * 命令
     * [概览](command/info.md)
+    * [coreprotect](command/coreprotect.md)
 
 *  游玩
    * [基岩版](play/mcbe.md)
