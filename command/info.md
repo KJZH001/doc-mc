@@ -5,3 +5,5 @@
 切勿滥用
 
 # 命令列表
+
+* [coreprotect](command/coreprotect.md)
