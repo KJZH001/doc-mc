@@ -4,6 +4,7 @@
 
 官方wiki（英文）：[wiki](https://docs.coreprotect.net/)
 
+中文百科（部分过时）：[mc插件百科](https://mineplugin.org/index.php?title=CoreProtect)
 - - -
 
 您可以使用 来访问以下命令。`/co`
@@ -17,8 +18,6 @@
 | [/co lookup](#co-lookup)     | 查找块数据     |
 | [/co rollback](#co-rollback) | 回滚块数据     |
 | [/co restore](#co-restore)   | 恢复块数据     |
-| [/co status](#co-status)     | 查看插件状态   |
-| [/co consumer](#co-consumer) | 切换消费者处理 |
 
 ### 别名命令
 
