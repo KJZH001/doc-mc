@@ -9,9 +9,10 @@
     * [已知问题&反馈](begin/problems.md)
 
 * 皮肤站
-    * [注册](register/register.md)
-    * [更换皮肤](register/change_skin.md)
-    * [外置登录](register/single_login.md)
+    * [注册](skin/register.md)
+    * [更换皮肤](skin/change_skin.md)
+    * [外置登录](skin/single_login.md)
+    * [游客账户](skin/guest_account.md)
 
 * 安装
     * [Java环境](install/java.md)
@@ -30,7 +31,13 @@
     * [术语](question/term.md)
     * [常见问题Q&A](question/Q&A.md)
 
+* 外部链接
+    * [Minecraft Wiki](https://zh.minecraft.wiki/)
+
 * 关于
+    * [【官网】空梦project](https://project.moeworld.tech/)
+    * [【皮肤站】MoeWorld Skin](https://skin.moeworld.top/)
+<!--
     * [关于我们](about/about.md)
     * [联系我们](about/contact.md)
     * [加入我们](about/join.md)
@@ -39,4 +46,4 @@
     * [服务条款](about/service.md)
     * [隐私政策](about/privacy.md)
     * [版权声明](about/copyright.md)
-    * [空梦project](https://project.moeworld.tech/)
+-->

@@ -24,6 +24,8 @@ HMCLv3.5.7为例，直接将标准 `.zip` `.mrpack` 等格式整合包拖进启�
 
 其他安装方法请自行搜寻启动器文档。
 
+如果您觉得本文不够详细，您也可以前往[Xplus文档-整合包安装](https://wudji.gitbook.io/xplus-series-modpack/faq/installation-guide)，参考阅读该整合包的安装教程
+
 > 也有一些非标准类型的整合包，例如直接解压使用的。我们不会对这些整合包提供任何帮助
 
 
