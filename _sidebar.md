@@ -6,7 +6,7 @@
     * [关于服务器](begin/about.md)
     * [外置登录](begin/login.md)
     * [服务器地址](begin/host.md)
-    * [新手帮助](begin/help.md)
+    * [已知问题&反馈](begin/problems.md)
 
 * 皮肤站
     * [注册](register/register.md)
