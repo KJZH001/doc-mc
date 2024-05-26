@@ -6,7 +6,7 @@
     * [关于服务器](begin/about.md)
     * [外置登录](begin/login.md)
     * [服务器地址](begin/host.md)
-    * [规则&封禁公示](begin/ruler.md)
+    * [规则&封禁公示](begin/rules.md)
     * [已知问题&反馈](begin/problems.md)
 
 * 皮肤站
