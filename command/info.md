@@ -7,3 +7,4 @@
 # 命令列表
 
 * [coreprotect](command/coreprotect.md)
+* [imageframe](command/imageframe.md)

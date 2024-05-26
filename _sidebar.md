@@ -6,6 +6,7 @@
     * [关于服务器](begin/about.md)
     * [外置登录](begin/login.md)
     * [服务器地址](begin/host.md)
+    * [规则&封禁公示](begin/ruler.md)
     * [已知问题&反馈](begin/problems.md)
 
 * 皮肤站
@@ -22,7 +23,8 @@
 
 * 命令
     * [概览](command/info.md)
-    * [coreprotect](command/coreprotect.md)
+    * [co检查保护](command/coreprotect.md)
+    * [if图像地图](command/imageframe.md)
 
 *  游玩
    * [基岩版](play/mcbe.md)
