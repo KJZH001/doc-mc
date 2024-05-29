@@ -5,27 +5,27 @@
 <!-- todo -->
 
 ```
-/imageframe select - Select item frames to put image maps on
-/imageframe create <name> <url> <width> <height> - Create a new image map
-/imageframe create <name> <url> selection - Create a new image map and put it directly in your selected item frames
-/imageframe create <name> <url> <width> <height> combined - Create a new image map and get its Combined ImageMap item
-/imageframe overlay <name> <url> - Create a new image map that adds an overlay on a Minecraft Vanilla map you are holding
-/imageframe overlay <name> <url> selection - Create a new image map that adds an overlay on a Minecraft Vanilla map in your selected item frames
-/imageframe clone <name> <new_name> - Create a new image map with the same properties as the old one
-/imageframe clone <name> <new_name> selection - Create a new image map with the same properties as the old one and put it directly in your selected item frames
-/imageframe clone <name> <new_name> combined - Create a new image map with the same properties as the old one and get its Combined ImageMap item
-/imageframe playback <name> pause - Toggle pause for an animated image map
-/imageframe playback <name> jumpto <seconds> - Jump to a specific second for an animated image map
-/imageframe refresh [optional:image_name] [optional:new_url] - Refresh a map you've created from source url
-/imageframe info - Get info related to the image map you are holding
-/imageframe get <name> - Get a self-created pre-existing image map
-/imageframe get <name> selection - Put a self-created pre-existing image map directly on your selected item frames
-/imageframe get <name> combined - Get a self-created pre-existing image map in its Combined ImageMap form
-/imageframe delete <name> - Delete a self-created pre-existing image map
-/imageframe rename <name> <new_name> - Rename a self-created pre-existing image map
-/imageframe list - List all self-created pre-existing image maps
-/imageframe marker add <image_name> <marker_name> <direction:0-15> <marker_type> [optional:caption] - Add a marker to your map
-/imageframe marker remove <image_name> <marker_name> - Remove a marker from your map
-/imageframe marker clear <image_name> - Clear all markers from your map
-/imageframe setaccess <name> <player> <permission> - Set access permission of other players for your map
+/imageframe select - 选择放置图像地图的物品框架
+/imageframe create <name> <url> <width> <height> - 创建一个新的图像地图
+/imageframe create <name> <url> selection - 在你选择的物品框架中直接创建一个新的图像地图
+/imageframe create <name> <url> <width> <height> combined - 创建一个新的图像地图并获得其组合图像地图物品
+/imageframe overlay <name> <url> - 在你手持的Minecraft原版地图上创建一个新的图像地图，增加一个覆盖层
+/imageframe overlay <name> <url> selection - 在你选择的物品框架的Minecraft原版地图上添加覆盖层的图像地图
+/imageframe clone <name> <new_name> - 创建一个与旧图像地图属性相同的新图像地图
+/imageframe clone <name> <new_name> selection - 在你选择的物品框架中直接创建一个与旧图像地图属性相同的新图像地图
+/imageframe clone <name> <new_name> combined - 创建一个与旧图像地图属性相同的新图像地图并获得其组合图像地图物品
+/imageframe playback <name> pause - 切换动画图像地图的暂停状态
+/imageframe playback <name> jumpto <seconds> - 跳转到动画图像地图的特定秒数
+/imageframe refresh [optional:image_name] [optional:new_url] - 从源URL刷新你创建的地图
+/imageframe info - 获取你手持的图像地图的相关信息
+/imageframe get <name> - 获取一个自己创建的现有图像地图
+/imageframe get <name> selection - 直接将自己创建的现有图像地图放在你选择的物品框架上
+/imageframe get <name> combined - 以组合图像地图形式获取自己创建的现有图像地图
+/imageframe delete <name> - 删除自己创建的现有图像地图
+/imageframe rename <name> <new_name> - 重命名自己创建的现有图像地图
+/imageframe list - 列出所有自己创建的现有图像地图
+/imageframe marker add <image_name> <marker_name> <direction:0-15> <marker_type> [optional:caption] - 在你的地图上添加一个标记
+/imageframe marker remove <image_name> <marker_name> - 从你的地图上移除一个标记
+/imageframe marker clear <image_name> - 清除你的地图上的所有标记
+/imageframe setaccess <name> <player> <permission> - 设置其他玩家对你的地图的访问权限
 ```
