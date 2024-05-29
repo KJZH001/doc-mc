@@ -21,7 +21,7 @@
     * [基岩版MC](install/mcbe.md)
     * [整合包(仅JE)](install/modpack.md)
 
-* 命令
+* 插件&扩展命令
     * [概览](command/info.md)
     * [co检查保护](command/coreprotect.md)
     * [if图像地图](command/imageframe.md)
