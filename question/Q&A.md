@@ -58,7 +58,7 @@
 
 如果您多次尝试**刷新**并更换**Wifi/移动数据**也无法通过验证
 
-请在[空梦Project](https://project.moeworld.tech/)中点击并加入Q群，寻找管理员请求协助
+请在[空梦Project](https://project.moeworld.tech/#term-7)中点击并加入Q群，寻找管理员请求协助
 
 或，搜索以下群号
 
