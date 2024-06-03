@@ -21,10 +21,11 @@
     * [基岩版MC](install/mcbe.md)
     * [整合包(仅JE)](install/modpack.md)
 
-* 插件&扩展命令
-    * [概览](command/info.md)
-    * [co检查保护](command/coreprotect.md)
-    * [if图像地图](command/imageframe.md)
+* 额外内容&可用命令
+    * [概览](extra/info.md)
+    * [co检查保护](extra/coreprotect.md)
+    * [if图像地图](extra/imageframe.md)
+    * [聊天频道](extra/channel.md)
 
 *  游玩
    * [基岩版](play/mcbe.md)
