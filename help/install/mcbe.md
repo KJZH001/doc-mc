@@ -1,5 +1,5 @@
 # 下载minecraft bedrock edition
-
+---
 ## 下载方式
 
 安卓用户前往google play商店，购买正版后下载。你需要能够访问google，并且拥有可用的支付方式，例如paypal或者visa卡之类。

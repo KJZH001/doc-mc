@@ -1,4 +1,5 @@
 # 下载 minecraft java edition 
+---
 ## 购买正版
 
 前往[minecraft官网](https://minecraft.net)购买游戏本体（而不是网易的官网）。
