@@ -3,7 +3,7 @@
 
 服务器状态:
 
-<img src="https://api.loohpjames.com/serverbanner.png?ip=mc.moeworld.top&timezone=Asia/Shanghai&offlinemessage=%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A6%BB%E7%BA%BF&dateformat=yyyy/MM/dd&name=MoeWorld%E7%A9%BA%E6%A2%A6%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8" alt="some_text">
+<img src="https://api.loohpjames.com/serverbanner.png?ip=mc.moeworld.top&timezone=Asia/Shanghai&offlinemessage=%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A6%BB%E7%BA%BF&dateformat=yyyy/MM/dd&name=MoeWorld%E7%A9%BA%E6%A2%A6%E4%B8%96%E7%95%8C%E6%9C%8D%E5%8A%A1%E5%99%A8" alt="服务器状态">
 
 !> Notice!
 
@@ -36,17 +36,5 @@
 在Github查看：[https://github.com/KJZH001/doc-mc/](https://github.com/KJZH001/doc-mc/)
 
 在文档站点中阅读：[https://doc-mc.moeworld.top](https://doc-mc.moeworld.top)
-
-# 外部链接
-
-晓空blog：https://blog.moeworld.tech
-
-空梦project:https://project.moeworld.tech
-
-皮肤站：https://skin.moeworld.top
-
-开发群：661246868
-
-社团群：923991620
 
 
