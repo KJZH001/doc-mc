@@ -12,4 +12,4 @@
   * [🎰新手帮助](/help/help.md)
   * [👰皮肤站](/skin/skin.md)
   * [🏷️术语表](/others/term.md)
-  * [🏷️其他](/others/others.md)
+  * [🏷️其他&外部链接](/others/others.md)
