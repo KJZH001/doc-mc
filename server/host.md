@@ -6,22 +6,22 @@ java版地址 支持1.13-1.20.4（服务器列表可能错误显示为不支持�
 基岩端需要1.20.60/1.20.80，其余版本不受支持
 
 
-## JAVA-优先推荐（需要ipv6）
-
-一般情况下速度更快，更稳定
-
+## java版
+* 优先推荐（需要ipv6），一般情况下速度更快，更稳定
 ```
 mcv6.moeworld.top
 mc.v6.moeworld.top:35578
 ```
-## JAVA-备用地址（ipv4支持）
+* 备用地址（ipv4支持）
 ```
 mcpc.moeworld.top
 mc.moeworld.top
 mc.moeworld.top:35578
 ```
 
-## 基岩端地址（仅ipv4和外置登录）
+## bedrock基岩版
+
+仅ipv4和外置登录
     
 ```
 推荐：mcbe.moeworld.top:19132
