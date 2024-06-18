@@ -8,21 +8,30 @@ java版地址 支持1.13-1.20.4（服务器列表可能错误显示为不支持�
 
 ## java版
 * 优先推荐（需要ipv6），一般情况下速度更快，更稳定
-`mcv6.moeworld.top`
-`mc.v6.moeworld.top:35578`
+
+    `mcv6.moeworld.top`
+
+    `mc.v6.moeworld.top:35578`
+
 * 备用地址（ipv4支持）
-`mcpc.moeworld.top`
-`mc.moeworld.top`
-`mc.moeworld.top:35578`
+
+    `mcpc.moeworld.top`
+
+    `mc.moeworld.top`
+
+    `mc.moeworld.top:35578`
 
 ## bedrock基岩版
 
 仅ipv4和外置登录
     
 * 推荐：
-`mcbe.moeworld.top:19132`
+
+    `mcbe.moeworld.top:19132`
+
 * 备用：
-`106.75.247.209:19132`
+
+    `106.75.247.209:19132`
 
 ## 全息网页地图
 推荐：[https://map.moeworld.top/](https://map.moeworld.top/)
