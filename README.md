@@ -19,7 +19,7 @@
 
 本次招募的管理员如下：
 ```
-白鱼Fan_whifish-管理员
+白鱼Fan_whifish-游戏管理
 
 WR_Until-检查员
 ```
