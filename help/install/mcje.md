@@ -1,20 +1,22 @@
-# 下载 minecraft java edition 
+# 下载 minecraft java edition
+
 ---
+
 ## 购买正版
 
-前往[minecraft官网](https://minecraft.net)购买游戏本体（而不是网易的官网）。
+前往[minecraft 官网](https://minecraft.net)购买游戏本体（而不是网易的官网）。
 
 参考如下籽岷的教程视频。
 
- [【如何购买正版 我的世界Minecraft】](https://www.bilibili.com/video/BV1ta4y1R7Hy/?share_source=copy_web&vd_source=59450cd35a5b1aab4ce7b904c43ffa6a)。
+[【如何购买正版 我的世界 Minecraft】](https://www.bilibili.com/video/BV1ta4y1R7Hy/?share_source=copy_web&vd_source=59450cd35a5b1aab4ce7b904c43ffa6a)。
 
- 首先进入mc官网，自行注册microsoft账户。选择购买minecraft
+首先进入 mc 官网，自行注册 microsoft 账户。选择购买 minecraft
 
 ![mc1](https://img2.imgtp.com/2024/05/13/M2T3MJm2.png)
 
- 选择想要购买的版本
+选择想要购买的版本
 
- ![mc2](https://img2.imgtp.com/2024/05/13/GjN3MYhM.png)
+![mc2](https://img2.imgtp.com/2024/05/13/GjN3MYhM.png)
 
 进行付款。
 
@@ -30,22 +32,22 @@
 
 参见[authlib-injector](https://github.com/yushijinhun/authlib-injector)。
 
-| 启动器名称       | 是否支持外置登录 |
-| ---------------- | ---------------- |
-| 官方启动器       | 手动             |
-| HMCL（例v3.5.7） | 内置             |
-| BakaXL           | 内置             |
-| MultiMC          | 手动             |
+| 启动器名称        | 是否支持外置登录 |
+| ----------------- | ---------------- |
+| 官方启动器        | 手动             |
+| HMCL（例 v3.5.7） | 内置             |
+| BakaXL            | 内置             |
+| MultiMC           | 手动             |
 
-
-你应当确保已经安装了java
+你应当确保已经安装了 java
 
 ## HMCL
-例v3.5.7。
+
+例 v3.5.7。
 
 一图流。
 
-首先确保正确安装了java
+首先确保正确安装了 java
 
 ![b1](https://img2.imgtp.com/2024/05/14/P4qqn63T.png)
 
@@ -92,4 +94,3 @@
 ![d4](https://img2.imgtp.com/2024/05/14/WaIzyh8M.png)
 
 若游戏为英文语言，自行查找如何切换至中文
-
