@@ -1,5 +1,7 @@
 # Let's Start!
 
+!> 嘿！我们移动了repo的位置，请留意下方的repo地址变化<br>—— by 晓空 2025.2.15
+
 欢迎来到空梦世界服务器！
 
 服务器状态:
@@ -61,6 +63,8 @@ WR_Until-检查员
 
 # 文档地址
 
-在 Github 查看：[https://github.com/KJZH001/doc-mc/](https://github.com/KJZH001/doc-mc/)
+~~在 Github 查看：[https://github.com/KJZH001/doc-mc/](https://github.com/KJZH001/doc-mc/)~~ 【已经弃用，请使用新地址】
+
+在 Github 查看：[https://github.com/KJZH001/doc-mc/](https://github.com/MoeWorld-CN/doc-mc/)
 
 在文档站点中阅读：[https://doc-mc.moeworld.top](https://doc-mc.moeworld.top)
