@@ -65,6 +65,6 @@ WR_Until-检查员
 
 ~~在 Github 查看：[https://github.com/KJZH001/doc-mc/](https://github.com/KJZH001/doc-mc/)~~ 【已经存档，请使用新地址】
 
-在 Github 查看：[https://github.com/KJZH001/doc-mc/](https://github.com/MoeWorld-CN/doc-mc/)
+在 Github 查看：[https://github.com/MoeWorld-CN/doc-mc/](https://github.com/MoeWorld-CN/doc-mc/)
 
 在文档站点中阅读：[https://doc-mc.moeworld.top](https://doc-mc.moeworld.top)
